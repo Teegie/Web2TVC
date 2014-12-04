@@ -1,11 +1,9 @@
 td {
 	height: 30px;
 }
-
 td:nth-child(2) input {
 	width: 400px
 }
-
 body {
 	margin: auto;
 	width: 90%;
@@ -14,28 +12,23 @@ body {
 	background-size: 100%;
 	background-attachment: fixed;
 }
-
 #man {
 	background-color: #FFF;
 	opacity: 0.7;
 	padding: 10px;
 }
-
-#header{
+#header {
 	margin: 20px;
 	height: 200px;
 }
-
-img{
+img {
 	display: inline-block;
 }
-
-h1{
+h1 {
 	font-size: 100px;
 	margin-left: 10%;
 	display: inline-block;
 }
-
 #form {
 	margin: auto;
 	margin-top: 50px;
@@ -43,18 +36,15 @@ h1{
 	width: 1150px;
 	text-align: center;
 }
-
 input {
 	border: solid 2px;
 }
-input::-webkit-input-placeholder{
-    color: #666;
+input::-webkit-input-placeholder {
+	color: #666;
 }
-
 h1 {
 	text-align: center;
 }
-
 p {
 	text-align: justify;
 }
